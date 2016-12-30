@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jul 10 12:08:21 2016
-
+COntext of the problem: Pandas Data frame manipulation for 
 @author: duwarahan
 """
 import os
@@ -16,7 +16,6 @@ path =r'wx_data'
 filenames = glob.glob(path + "/*.txt")
 
 # Problem#1
-
 list_of_records = []
 list_of_files = []
 dfs = []
