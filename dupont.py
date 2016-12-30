@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/python
 """
 Created on Sun Jul 10 12:08:21 2016
 COntext of the problem: Pandas Data frame manipulation for 
