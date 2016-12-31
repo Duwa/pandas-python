@@ -11,6 +11,7 @@ import numpy as np
 import re
 import decimal
 from decimal import Decimal
+import sys
 # get data file names
 path =r'wx_data'
 filenames = glob.glob(path + "/*.txt")
